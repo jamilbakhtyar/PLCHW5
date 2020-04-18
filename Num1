@@ -1,0 +1,10 @@
+public class EquivEx{
+  public static void main(String [] args){
+    String wordStr = example;
+    char exam = s;
+    
+    wordS = wordS + exam;
+    
+    System.out.println(wordS);
+    }
+ }
